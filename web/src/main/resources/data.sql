@@ -1,0 +1,48 @@
+INSERT INTO groups (number) VALUES (130), (143), (165);
+
+INSERT INTO teachers (name, age, sex) VALUES ('James Brown', 43, 'MALE');
+INSERT INTO teachers (name, age, sex) VALUES ('Lojay Garhovich', 23, 'FEMALE');
+INSERT INTO teachers (name, age, sex) VALUES ('Vasilyi Karpov', 59, 'MALE');
+
+INSERT INTO exams (title, scheduled_date, cabinet, status) VALUES ('Mathematics', '2016-08-05', 203, 'NOT_FINISHED');
+
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 01', 20, 'FEMALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 02', 20, 'FEMALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 03', 20, 'MALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 04', 20, 'FEMALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 05', 20, 'FEMALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 06', 20, 'FEMALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 07', 20, 'MALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 08', 20, 'MALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 09', 20, 'FEMALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 010', 20, 'MALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 011', 20, 'MALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 012', 20, 'MALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 013', 20, 'MALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 014', 20, 'FEMALE', 1);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 1', 19, 'FEMALE', 2);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 2', 18, 'MALE', 2);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 3', 19, 'MALE', 2);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 4', 19, 'MALE', 2);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 5', 19, 'MALE', 2);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 6', 19, 'FEMALE', 2);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 7', 19, 'MALE', 2);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 9', 19, 'FEMALE', 2);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 10', 19, 'FEMALE', 2);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 11', 19, 'MALE', 2);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 12', 19, 'FEMALE', 2);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 13', 19, 'MALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 14', 19, 'MALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 15', 19, 'FEMALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 16', 19, 'FEMALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 17', 19, 'MALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 18', 19, 'FEMALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 19', 19, 'MALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 20', 19, 'MALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 21', 19, 'FEMALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 22', 19, 'FEMALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 23', 19, 'MALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 24', 19, 'FEMALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 25', 19, 'MALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 26', 19, 'FEMALE', 3);
+INSERT INTO students (name, age, sex, group_number) VALUES ('People 27', 19, 'FEMALE', 3);
